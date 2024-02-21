@@ -1,0 +1,18 @@
+Conceitos Iniciais.
+
+Definição do termo ARQUIVO, no contexto da computação.
+Um arquivo no contexto da computação é um conjunto de informações ou dados armazenados em um dispositivo de armazenamento, como um disco rígido ou um pen drive. Essas informações podem ser um documento, uma imagem, um vídeo, um programa ou qualquer outro tipo de conteúdo digital.
+Os arquivos são organizados em pastas e subpastas, permitindo que o usuário encontre e acesse facilmente o conteúdo que está procurando. Cada arquivo é identificado por um nome exclusivo e uma extensão de arquivo que indica o tipo de arquivo. Por exemplo, um arquivo de texto pode ter a extensão “.txt”, enquanto um arquivo de imagem pode ter a extensão “.jpg” ou “.png”.
+O que é um ARQUIVO DE TEXTO?
+Um arquivo de texto é um arquivo que contém texto, mas existem várias maneiras de pensar sobre isso, por isso é importante conhecer o tipo de documento de texto que você possui antes de lidar com um programa que possa abri-lo ou convertê-lo.
+Nota: Alguns arquivos de texto usam a extensão de arquivo.TXT e não contêm imagens. Outros podem conter imagens e texto, mas ainda são chamados de arquivo de texto ou até mesmo abreviados como “arquivo txt”, o que pode ser confuso.
+Tipos de arquivos de texto:
+No sentido geral, um arquivo de texto refere-se a qualquer arquivo que tenha apenas texto e não contenha imagens e outros caracteres não textuais. Às vezes, eles usam a extensão de arquivo TXT, mas não precisam necessariamente. Por exemplo, um documento do Word que é um ensaio contendo apenas texto pode estar no formato de arquivo DOCX , mas ainda ser chamado de arquivo de texto.
+O que é uma VARIÁVEL?
+Um algoritmo representa uma solução para um problema no mundo real escrito em linguagem que o computador compreende. Com esse mesmo pensamento, podemos entender que cada item tratado nesse problema pode ser representado por uma variável. 
+As variáveis são elementos básicos na programação, pois são aquelas que armazenam os dados que precisamos no nosso algoritmo. Cada dado pode ser de um tipo diferente e, por isso precisamos mostrar ao nosso algoritmo logo no início o que esperar armazenar.
+Imagine, por exemplo, que precisamos separar roupas do vestuário de acordo com o seu tipo dentro de um armário. Esse é quem arruma a bagunça
+O que seria um SERVIDOR?
+Um servidor, em suma, é um computador com grande capacidade de armazenamento e processamento cujo objetivo é conectar outros computadores através de uma rede.
+Os servidores processam e executam solicitações feitas por usuário através de softwares, bancos de dados, envio e recebimento de informações como e-mails, envio de formulários, hospedagem de websites e outros.
+Um servidor funciona, a grosso modo, como um grande computador, mas ao invés de executar operações em nível doméstico, ele o faz em grande escala, transferindo esses resultados para diferentes computadores.
