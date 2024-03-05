@@ -1,0 +1,44 @@
+Conceitos Iniciais.
+
+Definição do termo ARQUIVO, no contexto da computação.
+Um arquivo no contexto da computação é um conjunto de informações ou dados armazenados em um dispositivo de armazenamento, como um disco rígido ou um pen drive. Essas informações podem ser um documento, uma imagem, um vídeo, um programa ou qualquer outro tipo de conteúdo digital.
+Os arquivos são organizados em pastas e subpastas, permitindo que o usuário encontre e acesse facilmente o conteúdo que está procurando. Cada arquivo é identificado por um nome exclusivo e uma extensão de arquivo que indica o tipo de arquivo. Por exemplo, um arquivo de texto pode ter a extensão “.txt”, enquanto um arquivo de imagem pode ter a extensão “.jpg” ou “.png”.
+O que é um ARQUIVO DE TEXTO?
+Um arquivo de texto é um arquivo que contém texto, mas existem várias maneiras de pensar sobre isso, por isso é importante conhecer o tipo de documento de texto que você possui antes de lidar com um programa que possa abri-lo ou convertê-lo.
+Nota: Alguns arquivos de texto usam a extensão de arquivo.TXT e não contêm imagens. Outros podem conter imagens e texto, mas ainda são chamados de arquivo de texto ou até mesmo abreviados como “arquivo txt”, o que pode ser confuso.
+Tipos de arquivos de texto:
+No sentido geral, um arquivo de texto refere-se a qualquer arquivo que tenha apenas texto e não contenha imagens e outros caracteres não textuais. Às vezes, eles usam a extensão de arquivo TXT, mas não precisam necessariamente. Por exemplo, um documento do Word que é um ensaio contendo apenas texto pode estar no formato de arquivo DOCX , mas ainda ser chamado de arquivo de texto.
+O que é uma VARIÁVEL?
+Um algoritmo representa uma solução para um problema no mundo real escrito em linguagem que o computador compreende. Com esse mesmo pensamento, podemos entender que cada item tratado nesse problema pode ser representado por uma variável. 
+As variáveis são elementos básicos na programação, pois são aquelas que armazenam os dados que precisamos no nosso algoritmo. Cada dado pode ser de um tipo diferente e, por isso precisamos mostrar ao nosso algoritmo logo no início o que esperar armazenar.
+Imagine, por exemplo, que precisamos separar roupas do vestuário de acordo com o seu tipo dentro de um armário. Esse é quem arruma a bagunça
+O que seria um SERVIDOR?
+Um servidor, em suma, é um computador com grande capacidade de armazenamento e processamento cujo objetivo é conectar outros computadores através de uma rede.
+Os servidores processam e executam solicitações feitas por usuário através de softwares, bancos de dados, envio e recebimento de informações como e-mails, envio de formulários, hospedagem de websites e outros.
+Um servidor funciona, a grosso modo, como um grande computador, mas ao invés de executar operações em nível doméstico, ele o faz em grande escala, transferindo esses resultados para diferentes computadores.
+
+
+1 – Encontre referências e comente: 
+A) - A relação entre a LGPD e os Data Centers no Brasil
+Os Data Centers, também chamado de Centro de Processamento de Dados, estão incluídos nas adequações da Lei Geral de Proteção de Dados (LGPD), inclusive, por estarem no ramo de empresas que hospedam dados e aplicações corporativas. Justamente por terem em sua base servidores, armazenamento e processamento de dados, roteadores, equipamentos e dispositivos de segurança e outras ferramentas físicas e digitais, carecem de uma atenção essencial por conta de seu objetivo na garantia de segurança de um ambiente empresarial.
+Por conta dessa responsabilidade com seus parceiros, os Data Centers precisam ter como regra básica e cultura empresarial as adequações a LGPD, que estão em vigor desde setembro de 2020 e com a aplicação das sanções administrativas desde agosto de 2021. Saiba mais como os Data Centers podem se adequar à LGPD e os impactos que a Lei causa no setor.
+
+B) - Formatos de arquivos de dados proprietários e abertos 
+Formatos abertos:
+Um formato aberto, em informática, indica uma especificação técnica de domínio público usada para a descrição e armazenamento de dados digitais, livre de restrições legais para seu uso.
+O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devidas às especificações técnicas: em outras palavras, garantir a interoperabilidade. Outro objetivo do formato aberto é incentivar a concorrência, ao invés de permitir que um único fabricante detenha o controle sobre um formato proprietário.
+Formatos proprietários:
+Os formatos proprietários são, na verdade, controlados e definidos por interesses privados.
+Com o formato proprietário, o usuário corre o risco de perder todas as informações contidas no arquivo caso o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las. Todas as informações coletadas nos arquivos públicos (órgãos, instituições, administração, etc.) se tornariam ilegíveis e inutilizáveis em muito pouco tempo.
+A título de exemplo, o formato MP3 é proprietário, mas também aberto porque, se bém patenteado, suas especificações são públicas. Tornar públicas as especificações técnicas é uma maneira de difundir o formato e torná-lo um padrão internacional.
+Qual a diferença entre formato proprietário aberto e opensource? Enquanto o formato opensource pode ser lido ou editado por qualquer aplicativo, o formato proprietárioo aberto pode ser alterado apenas com o programa proprietário.
+É evidente o valor do formato IFC: os dados são independentes do formato do arquivo onde eles são armazenados e transmitidos.
+
+B.1) forneça exemplos de formatos 
+EXE, PDF, DOC e IFC.
+
+B.2) discuta as implicações relacionadas a dados públicos 
+Os dados públicos desempenham um papel crucial em uma sociedade democrática. Eles permitem que os cidadãos acompanhem as atividades do governo, fiscalizem o uso dos recursos públicos e tomem decisões informadas sobre questões que afetam suas vidas.
+
+2 – Inclua seus comentários no arquivo de texto NO github
+Arquivos de texto nos formatos atuais juntamente da lei LGPD vieram para ajudar a regular e melhorar a linguagem e informação no Brasil. Tanto como acesso rápido como a acessibilidade de todos num modo geral.
