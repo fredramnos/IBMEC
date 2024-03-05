@@ -1,0 +1,46 @@
+1. “Python”:
+Python é uma linguagem de programação de alto nível conhecida por sua sintaxe simples e legível, tornando-a acessível para iniciantes. É amplamente utilizada em uma variedade de domínios, incluindo desenvolvimento web, análise de dados, automação de tarefas e inteligência artificial. Sua vasta biblioteca padrão e grande comunidade de desenvolvedores contribuem para sua popularidade e versatilidade.
+
+2. “JavaScript”:
+ JavaScript é uma linguagem de programação amplamente utilizada no desenvolvimento web para tornar as páginas interativas e dinâmicas. Executado no lado do cliente, JavaScript permite manipular elementos da página, responder a eventos do usuário e enviar solicitações para servidores web. Sua sintaxe é relativamente simples e é uma habilidade valiosa para desenvolvedores front-end e full-stack.
+
+3.Ruby:
+Ruby é uma linguagem de programação de alto nível com uma sintaxe simples e expressiva, orientada a objetos e de tipagem dinâmica, onde tudo é tratado como um objeto. Ela oferece estruturas de dados convenientes, como arrays e hashes, além de suportar blocos e iteradores para iteração sobre coleções de dados. Com módulos e mixins, Ruby permite a inclusão de funcionalidades em classes, promovendo a reutilização de código de maneira eficiente. Além disso, possui um sistema robusto de tratamento de exceções para lidar com erros de forma controlada, tornando-a uma escolha popular para uma variedade de aplicativos, desde scripts simples até aplicativos da web complexos.
+
+1º Código – Python
+print('Soma basica')
+num1 = float("2")
+num2 = float("4")
+soma = num1 + num2
+print("A soma é:", soma)
+print("Só mais um ano para a formatura")
+
+2º Código – JavaScript
+console.log("Soma básica")
+var numero1 = 69;
+var numero2 = 24;
+var soma = numero1 + numero2;
+console.log("A soma é:", soma);
+console.log("⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿")
+console.log("⣿⠟⠫⢻⣿⣿⣿⣿⢟⣩⡍⣙⠛⢛⣿⣿⣿⠛⠛⠛⠛⠻⣿⣿⣿⣿⣿⡿⢿⣿")
+console.log("⣿⠤⠄⠄⠙⢿⣿⣿⣿⡿⠿⠛⠛⢛⣧⣿⠇⠄⠂⠄⠄⠄⠘⣿⣿⣿⣿⠁⠄⢻")
+console.log("⣿⣿⣿⣿⣶⣄⣾⣿⢟⣼⠒⢲⡔⣺⣿⣧⠄⠄⣠⠤⢤⡀⠄⠟⠉⣠⣤⣤⣤⣾")
+console.log("⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣀⣬⣵⣿⣿⣿⣶⡤⠙⠄⠘⠃⠄⣴⣾⣿⣿⣿⣿⣿")
+console.log("⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢻⠿⢿⣿⣿⠿⠋⠁⠄⠂⠉⠒⢘⣿⣿⣿⣿⣿⣿⣿")
+console.log("⣿⣿⣿⣿⣿⣿⣿⣿⡿⣡⣷⣶⣤⣤⣀⡀⠄⠄⠄⠄⠄⠄⠄⣾⣿⣿⣿⣿⣿⣿")
+console.log("⣿⣿⣿⣿⣿⣿⣿⡿⣸⣿⣿⣿⣿⣿⣿⣿⣷⣦⣰⠄⠄⠄⠄⢾⠿⢿⣿⣿⣿⣿")
+console.log("⣿⡿⠋⣡⣾⣿⣿⣿⡟⠉⠉⠈⠉⠉⠉⠉⠉⠄⠄⠄⠑⠄⠄⠐⡇⠄⠈⠙⠛⠋")
+console.log("⠋⠄⣾⣿⣿⣿⣿⡿⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢠⡇⠄⠄⠄⠄⠄")
+console.log("⠄⢸⣿⣿⣿⣿⣿⣯⠄⢠⡀⠄⠄⠄⠄⠄⠄⠄⠄⣀⠄⠄⠄⠄⠁⠄⠄⠄⠄⠄")
+console.log("⠁⢸⣿⣿⣿⣿⣿⣯⣧⣬⣿⣤⣐⣂⣄⣀⣠⡴⠖⠈⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄")
+console.log("⠈⠈⣿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣽⣉⡉⠉⠈⠁⠄⠁⠄⠄⠄⠄⡂⠄⠄⠄⠄⠄")
+console.log("⠄⠄⠙⣿⣿⠿⣿⣿⣿⣿⣷⡤⠈⠉⠉⠁⠄⠄⠄⠄⠄⠄⠄⠠⠔⠄⠄⠄⠄⠄")
+console.log("⠄⠄⠄⡈⢿⣷⣿⣿⢿⣿⣿⣷⡦⢤⡀⠄⠄⠄⠄⠄⠄⢐⣠⡿⠁⠄⠄⠄⠄⠄")
+
+3º código Ruby:
+puts "Execução de soma básica"
+numero1 = 22
+numero2 = 13
+soma = numero1 + numero2
+puts "A soma é: #{soma}"
+puts "Flamengo>Vasco da Gama"
