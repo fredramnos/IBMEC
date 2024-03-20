@@ -1,0 +1,30 @@
+print ("Frederico")
+
+numero = 10
+nome = "Frederico"
+Booleano = True
+
+
+
+a = 5
+b = 10
+
+soma = a + b
+subtração = a - b
+multiplicação = A * b
+divião = a / b
+
+C = 15
+d = 20
+
+
+Amo minha faculdade = 50
+faculdade = 30
+
+Media aritimetica = 10
+quadrado de um dos numeros = 4
+dobro de um dos numeros = 40
+quantidade de letras da palavra = 9
+quantidade de espaços em branco da frase = 2
+se o primeiro numero é maior que o segundo = False
+o maior numero = D
