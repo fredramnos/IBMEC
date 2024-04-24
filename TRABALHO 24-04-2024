@@ -1,0 +1,94 @@
+Questão 1:
+def imprimir_informacoes(nome, idade, cidade):
+    print("Nome:", nome, end=", ")
+    print("Idade:", idade, end=", ")
+    print("Cidade:", cidade)
+
+# Exemplo de uso da função
+imprimir_informacoes("João", 30, "São Paulo")
+
+
+
+Questão 2: 
+def calcular(num1, num2, operacao):
+    if operacao == '+':
+        return num1 + num2
+    elif operacao == '-':
+        return num1 - num2
+    elif operacao == '*':
+        return num1 * num2
+    elif operacao == '/':
+        if num2 != 0:  # Verifica se o divisor não é zero
+            return num1 / num2
+        else:
+            return "Erro: Divisão por zero"
+    else:
+        return "Operação inválida"
+
+# Solicita os números e a operação ao usuário
+num1 = float(input("Digite o primeiro número: "))
+num2 = float(input("Digite o segundo número: "))
+operacao = input("Digite a operação desejada (+, -, *, /): ")
+
+# Calcula e imprime o resultado
+resultado = calcular(num1, num2, operacao)
+print(f"O resultado de {num1} {operacao} {num2} é: {resultado}")
+
+Questão 3:
+def imprimir_itens(lista):
+    print("\nItens da lista de compras:")
+    for i, item in enumerate(lista, start=1):
+        print("Item {}: {}".format(i, item))
+
+# Criando a lista de compras
+itens_compra = ["leite", "ovos", "pão", "manteiga"]
+
+# Imprimindo os itens da lista de compras em linhas separadas usando um laço
+imprimir_itens(itens_compra)
+
+
+Questão 4: 
+def celsius_para_fahrenheit(celsius):
+    fahrenheit = (celsius * 9/5) + 32
+    return fahrenheit
+
+def imprimir_itens_e_temperaturas(itens, temperaturas):
+    print("\nItens da lista de compras e suas temperaturas em Fahrenheit:")
+    for i, item in enumerate(itens, start=1):
+        print("Item {}: {}, Temperatura (Fahrenheit): {:.2f}".format(i, item, temperaturas[i-1]))
+
+def solicitar_temperatura_celsius():
+    temperatura_celsius = float(input("Digite a temperatura em graus Celsius: "))
+    return temperatura_celsius
+
+# Lista de compras
+itens_compra = ["leite", "ovos", "pão", "manteiga"]
+
+# Solicitação das temperaturas em Celsius e conversão para Fahrenheit
+temperaturas_fahrenheit = []
+for item in itens_compra:
+    temperatura_celsius = solicitar_temperatura_celsius()
+    temperatura_fahrenheit = celsius_para_fahrenheit(temperatura_celsius)
+    temperaturas_fahrenheit.append(temperatura_fahrenheit)
+
+# Impressão dos itens da lista de compras e suas temperaturas em Fahrenheit
+imprimir_itens_e_temperaturas(itens_compra, temperaturas_fahrenheit)
+
+
+Questão 5: def solicitar_nomes():
+    nomes = []
+    while True:
+        nome = input("Digite um nome (ou 'sair' para terminar): ")
+        if nome.lower() == 'sair':
+            break
+        nomes.append(nome)
+    return nomes
+
+def imprimir_nomes(nomes):
+    print("\nNomes digitados:")
+    for nome in nomes:
+        print(nome)
+
+# Chamando as funções para solicitar nomes e imprimir
+nomes_digitados = solicitar_nomes()
+imprimir_nomes(nomes_digitados)
